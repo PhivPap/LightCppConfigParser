@@ -23,4 +23,6 @@ The (#define DELIM) delimeter is used for list content. Changeable.
 
 See .h for value types.  
 
-## See Demo.cpp and DemoConfig.cfg
+
+## Compile Demo (gcc):
+  g++ Demo.cpp ConfigParser.cpp
